@@ -1,0 +1,17 @@
+.app {
+  margin-top: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.app form {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.app ul {
+  align-items: center;
+  padding: 5px 20px;
+}
